@@ -1,3 +1,9 @@
 [submodule "redux"]
 	path = redux
 	url = https://github.com/reactjs/redux.git
+[submodule "dva"]
+	path = dva
+	url = https://github.com/dvajs/dva.git
+[submodule "redux-saga"]
+	path = redux-saga
+	url = https://github.com/redux-saga/redux-saga.git
