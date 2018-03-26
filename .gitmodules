@@ -6,4 +6,4 @@
 	url = https://github.com/dvajs/dva.git
 [submodule "redux-saga"]
 	path = redux-saga
-	url = https://github.com/redux-saga/redux-saga.git
+	url = https://github.com/ylksty/redux-saga.git
