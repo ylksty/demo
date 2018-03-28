@@ -7,3 +7,6 @@
 [submodule "redux-saga"]
 	path = redux-saga
 	url = https://github.com/ylksty/redux-saga.git
+[submodule "react-redux"]
+	path = react-redux
+	url = https://github.com/ylksty/react-redux.git
