@@ -7,3 +7,6 @@
 [submodule "redux-saga"]
 	path = redux-saga
 	url = https://github.com/ylksty/redux-saga.git
+[submodule "vue"]
+	path = vue
+	url = https://github.com/ylksty/vue.git
