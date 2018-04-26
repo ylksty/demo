@@ -16,3 +16,6 @@
 [submodule "reactNative"]
 	path = reactNative
 	url = https://github.com/ylksty/reactNative.git
+[submodule "klwp"]
+	path = klwp
+	url = https://github.com/ylksty/klwp.git
